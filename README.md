@@ -3,9 +3,9 @@
 A Caesar Cipher is a code where each letter of a message is changed with the letter that is n (called the shift value) letters down from it in the standard alphabet. 
 So, for instance, a Caesar Cipher with the shift value of 5 will look like this:
 
-Standard a b c d e f g h i j k l m n o p q r s t u v w x y z
+Standard: a b c d e f g h i j k l m n o p q r s t u v w x y z
 
-Cipher f g h i j k l m n o p q r s t u v w x y z a b c d e
+Cipher: f g h i j k l m n o p q r s t u v w x y z a b c d e
 
 So, the message "cakeinthebreakroom" (remove spaces before encrypting, use only lower-case letters) becomes: hfpjnsymjgwjfpwttr.
 
