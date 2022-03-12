@@ -1,8 +1,5 @@
 // --------------------------------------------------------------------------
 // Name: Trey Dobbs
-// Course-Section: CS 255-01
-// Assignment: Project #3
-// Date Due: 9/23/2020
 // Description: This C++ project implements a Caesar Cipher code where each 
 // letter of a message is changed with the letter that is n (called
 // the shift value) letters down from it in the standard alphabet. Default
